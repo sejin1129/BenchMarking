@@ -11,11 +11,14 @@
 
 ### 결과
  >1 epoch 당 training loss 와 validation loss 가 출력됨을 확인
+
 ![image](https://user-images.githubusercontent.com/113009722/228732274-9359708c-4f10-41e6-9102-a78ee3598e1e.png)
+
 ![image](https://user-images.githubusercontent.com/113009722/228732382-d3950679-67cd-4e2f-9996-ddb56a676650.png)
 
 
 ### loss-epoch 그래프
  >training 과 validation 의 loss-epoch 그래프
+
 ![image](https://user-images.githubusercontent.com/113009722/228732483-a15e4354-9188-46b0-a7fa-9e10996b8be6.png)
 
