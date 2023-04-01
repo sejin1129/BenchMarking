@@ -41,3 +41,6 @@
 ![image](https://user-images.githubusercontent.com/113009722/229273742-ee5e905f-fce8-4fa2-803b-dc6de5ebd970.png)
 
 - 그래프상 좋은 epoch : 7 or 10
+
+### F1-SCORE
+- 0.7584
