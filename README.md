@@ -20,6 +20,9 @@
 
 - 그래프상 좋은 epoch : 7 or 11 
 
+### F1-SCORE
+ - 0.8896
+
 ---
 # 2.ShuffleNet_v2_1_0
 
