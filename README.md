@@ -9,12 +9,12 @@
  >반면 SGD의 경우 loss가 1% 이하로 떨어지며 Accuracy 또한 급격히 높아짐을 확인
 
 ### 측정그래프
- > loss-epoch 그래프
+- loss-epoch 그래프
 
 ![image](https://user-images.githubusercontent.com/113009722/229266913-4e43e544-cd0a-4118-bf04-475aaed38d22.png)
 
 
- > accuracy-epoch 그래프
+- accuracy-epoch 그래프
 
 ![image](https://user-images.githubusercontent.com/113009722/229266920-97f7d489-78ab-4320-abe5-afee557a251a.png)
 
