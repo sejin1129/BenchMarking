@@ -44,3 +44,26 @@
 
 ### F1-SCORE
 - 0.7584
+
+### Run-Time : 17min
+
+# 2.ShuffleNet_v2_1_0(1)
+
+### 하이퍼 파라미터
+ - batch_size = 64
+ - epoch = 40
+ - optimizer = Adam
+
+### 측정그래프
+- loss-epoch 그래프
+
+![image](https://user-images.githubusercontent.com/113009722/229280301-2e58b99c-717b-46d7-ad42-c0ca380fa96d.png)
+
+- accuracy-epoch 그래프
+
+![image](https://user-images.githubusercontent.com/113009722/229280325-ab46a70c-1720-4ed4-a716-080ed344eff9.png)
+
+- 그래프상 좋은 epoch : 18 or 21
+
+### F1-SCORE
+- 0.6330
