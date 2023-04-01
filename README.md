@@ -20,3 +20,21 @@
 
 - 그래프상 좋은 epoch : 7 or 11 
 
+
+# 2.ShuffleNet_v2_1_0
+
+### 하이퍼 파라미터
+ - batch_size = 128
+ - epoch = 20
+ - optimizer = Adam
+
+### 측정그래프
+- loss-epoch 그래프
+
+![image](https://user-images.githubusercontent.com/113009722/229273705-c38d1697-bc5a-4117-9f49-9d43eb1647c6.png)
+
+- accuracy-epoch 그래프
+
+![image](https://user-images.githubusercontent.com/113009722/229273742-ee5e905f-fce8-4fa2-803b-dc6de5ebd970.png)
+
+- 그래프상 좋은 epoch : 7 or 10
