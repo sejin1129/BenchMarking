@@ -18,5 +18,5 @@
 
 ![image](https://user-images.githubusercontent.com/113009722/229266920-97f7d489-78ab-4320-abe5-afee557a251a.png)
 
-
+- 그래프상 좋은 epoch : 7 or 11 
 
