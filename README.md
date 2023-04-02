@@ -3,7 +3,7 @@
 ### 하이퍼 파라미터
  - batch_size = 32
  >다른 사람들의 여러 사용 결과를 확인한 결과 32로 설정했을 때 좋은 값을 기록했다고 함
- - epoch = 30
+ - epoch = 40
  - optimizer = SGD
  >optimizer 를 Adam으로 할 경우 loss 가 2% 이하로는 떨어지지 않아 Accuracy 가 10% 를 기록
  >반면 SGD의 경우 loss가 1% 이하로 떨어지며 Accuracy 또한 급격히 높아짐을 확인
@@ -34,11 +34,11 @@
 ### 측정그래프
 - loss-epoch 그래프
 
-![image](https://user-images.githubusercontent.com/113009722/229273705-c38d1697-bc5a-4117-9f49-9d43eb1647c6.png)
+![VGG16_loss](https://user-images.githubusercontent.com/113009722/229337921-ef20fad9-5543-48a0-aa1b-53a94336db1b.PNG)
 
 - accuracy-epoch 그래프
 
-![image](https://user-images.githubusercontent.com/113009722/229273742-ee5e905f-fce8-4fa2-803b-dc6de5ebd970.png)
+![image](https://user-images.githubusercontent.com/113009722/229337900-25a86190-b24d-4af5-a967-716726b8873a.png)
 
 - 그래프상 좋은 epoch : 20
 
