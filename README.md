@@ -11,17 +11,18 @@
 ### 측정그래프
 - loss-epoch 그래프
 
-![image](https://user-images.githubusercontent.com/113009722/229266913-4e43e544-cd0a-4118-bf04-475aaed38d22.png)
-
+![VGG16_loss](https://user-images.githubusercontent.com/113009722/229338099-a85346d9-239c-41e6-8877-d2a54016bfd0.PNG)
 
 - accuracy-epoch 그래프
 
-![image](https://user-images.githubusercontent.com/113009722/229266920-97f7d489-78ab-4320-abe5-afee557a251a.png)
+![VGG16_acc](https://user-images.githubusercontent.com/113009722/229338104-9eb80a30-2594-49ee-bdaf-d5aa3b0a0ca9.PNG)
 
-- 그래프상 좋은 epoch : 7 or 11 
+- 그래프상 좋은 epoch : 25
 
 ### F1-SCORE
- - 0.8896
+ - 0.8898
+
+### Run-time : 49min
 
 ---
 # 2.ShuffleNet_v2_1_0
@@ -34,11 +35,11 @@
 ### 측정그래프
 - loss-epoch 그래프
 
-![VGG16_loss](https://user-images.githubusercontent.com/113009722/229337921-ef20fad9-5543-48a0-aa1b-53a94336db1b.PNG)
+![ShuffleNet_loss](https://user-images.githubusercontent.com/113009722/229338126-8e0beb7e-9adb-4f53-9134-7e7cf5172875.PNG)
 
 - accuracy-epoch 그래프
 
-![image](https://user-images.githubusercontent.com/113009722/229337900-25a86190-b24d-4af5-a967-716726b8873a.png)
+![ShuffleNet_acc](https://user-images.githubusercontent.com/113009722/229338133-6fdb1f52-9752-41ce-9f39-a005e3489879.PNG)
 
 - 그래프상 좋은 epoch : 20
 
@@ -47,6 +48,7 @@
 
 ### Run-Time : 17min
 
+---
 # 2.ShuffleNet_v2_1_0(1)
 
 ### 하이퍼 파라미터
